@@ -13,7 +13,7 @@ title: 我的知识库
 tagline: 学习、记录与积累
 description: 记录学习笔记、技术实践和生活经验。
 
-url: "https://waccsd.github.io"
+url: "https://waccsdf.github.io"
 baseurl: ""
 
 github:
@@ -22,7 +22,7 @@ github:
 social:
   name: waccsdf
   links:
-    - https://github.com/waccsd
+    - https://github.com/waccsdf
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone:
