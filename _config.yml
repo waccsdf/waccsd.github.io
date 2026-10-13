@@ -6,7 +6,23 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
+timezone: Asia/Shanghai
+
+title: 我的知识库
+tagline: 学习、记录与积累
+description: 记录学习笔记、技术实践和生活经验。
+
+url: "https://你的用户名.github.io"
+baseurl: ""
+
+github:
+  username: 你的用户名
+
+social:
+  name: 你的昵称
+  links:
+    - https://github.com/你的用户名
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone:
